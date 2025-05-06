@@ -1,1 +1,1 @@
-# Minimization-of-switching-functions-using-the-Quine-McCluskey-method-Veitch-diagrams
+# Тема: Мінімізація перемикальних функцій методом Квайна – Мак-Класки, діаграм Вейча
