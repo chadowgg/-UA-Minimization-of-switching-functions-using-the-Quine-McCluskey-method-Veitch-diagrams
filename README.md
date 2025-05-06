@@ -1,0 +1,1 @@
+# Minimization-of-switching-functions-using-the-Quine-McCluskey-method-Veitch-diagrams
