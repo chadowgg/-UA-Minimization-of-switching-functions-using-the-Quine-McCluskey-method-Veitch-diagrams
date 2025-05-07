@@ -146,4 +146,4 @@ K² = {ΧΧ1}
 
 Рисунок 4.2. Графічний метод мінімізації перемикальних функцій: а – діаграми Вейча; б – карти Карно
 ![Графічний метод мінімізації перемикальних функцій: а](A-Graphical-method-for-minimizing-switching-functions.png)
-![Графічний метод мінімізації перемикальних функцій: б](https://github.com/user-attachments/assets/dc5d0bf5-29da-4b92-bf7f-e0f7d84c8a8c)
+![Графічний метод мінімізації перемикальних функцій: б](B-Graphical-method-for-minimizing-switching-functions.png)
