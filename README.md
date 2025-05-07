@@ -219,11 +219,12 @@ y = x̅₄x̅₃x̅₂x₁ ∪ x₄x₃x̅₁ ∪ x₃x₂x₁ ∪ x₄x₂
 
 y = x₄x₃x̅₁ ∪ x₄x₂ ∪ x₃x₂x₁ ∪ x̅₄x̅₃x̅₂x₁
 
-
 ### Побудова комбінаційної схеми МДНФ ###
 
+
 Рис 1. Комбінаційна схема для МДНФ
-![](Veitch-diagram.png)
+
+![](Combinational-scheme-for-DDNF.png)
 
 Рис. 2. Таблиця істинності комбінаційної схеми  МДНФ
 ![](Veitch-diagram.png)
