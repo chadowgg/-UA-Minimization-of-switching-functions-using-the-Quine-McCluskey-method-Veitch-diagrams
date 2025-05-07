@@ -145,5 +145,5 @@ K² = {ΧΧ1}
    Сукупності простих імплікант, що входять у МДНФ, відповідає мінімальна множина прямокутників, які покривають усі одиниці.
 
 Рисунок 4.2. Графічний метод мінімізації перемикальних функцій: а – діаграми Вейча; б – карти Карно
-![B-Graphical-method-for-minimizing-switching-functions](https://github.com/user-attachments/assets/7a28d8f4-a03d-4bee-9e6a-7da63e3b35bb)
-![A-Graphical-method-for-minimizing-switching-functions](https://github.com/user-attachments/assets/dc5d0bf5-29da-4b92-bf7f-e0f7d84c8a8c)
+![Графічний метод мінімізації перемикальних функцій: а](A-Graphical-method-for-minimizing-switching-functions.png)
+![Графічний метод мінімізації перемикальних функцій: б](https://github.com/user-attachments/assets/dc5d0bf5-29da-4b92-bf7f-e0f7d84c8a8c)
